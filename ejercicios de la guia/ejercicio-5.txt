@@ -1,0 +1,15 @@
+var lado1
+var lado2
+
+var perímetro
+var area
+
+ING lado1
+ING lado2
+
+
+perimetro = 2 * (lado1 + lado2)
+área = lado1 * lado 2
+
+MOSTRAR "el perímetro del cuadrado es" + var perímetro;
+MOSTRAR "el área del cuadrado es" + var area; 

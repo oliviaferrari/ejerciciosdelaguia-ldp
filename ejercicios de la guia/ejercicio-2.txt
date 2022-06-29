@@ -1,0 +1,7 @@
+2. Escribir el algoritmo que permita dibujar un cuadrado.
+
+Algoritmo para hacer un cuadrado
+- Con mis propios dedos
+- Seguiría el trazado de uno de estos
+- Así con los 4 distintos lados
+- De esta manera formando un cuadrado

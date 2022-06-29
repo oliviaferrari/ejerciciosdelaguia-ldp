@@ -1,0 +1,11 @@
+var lado;
+var perímetro;
+var area;
+
+ING lado;
+
+perímetro = lado + lado + lado + lado;
+área = lado * lado;
+
+MOSTRAR "el perímetro del cuadrado es" + var perímetro;
+MOSTRAR "el área del cuadrado es" + var area; 

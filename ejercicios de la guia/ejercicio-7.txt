@@ -1,0 +1,7 @@
+var nombre;
+var apellido;
+
+ING nombre;
+ING apellido;
+
+MOSTRAR "Bienvenido  " + nombre + “” + apellido

@@ -1,0 +1,7 @@
+var diámetro
+
+ING diámetro
+
+var perímetro = 3.14 * diámetro
+
+MOSTRAR "el perimetro del circulo es " + perimetro 

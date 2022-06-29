@@ -1,0 +1,9 @@
+var lado1
+var lado2
+var lado3
+ 
+ING lado1
+ING lado2
+ING lado3
+ 
+MOSTRAR lado1 + lado2 + lado3

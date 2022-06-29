@@ -1,0 +1,19 @@
+var num1;
+var num2;
+
+ING num1;
+ING num2;
+
+var resto = num1 % num2;
+
+MOSTRAR resto; 
+
+
+
+var nombre;
+var apellido;
+
+ING nombre;
+ING apellido;
+
+MOSTRAR "Bienvenido  " + nombre + “” + apellido

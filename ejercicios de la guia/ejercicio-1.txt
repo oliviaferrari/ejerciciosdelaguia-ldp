@@ -1,0 +1,7 @@
+1. Escribir el algoritmo que permita dibujar un círculo.
+
+¿Cómo haría un círculo sin un compás?
+- Yo agarraria lo más circular que tengo en mi cartuchera
+- Ejemplo: tapa de boligoma
+- Usaría los bordes de esto para poder guiarme y trazar alrededor de esta
+
